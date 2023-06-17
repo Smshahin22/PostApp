@@ -1,16 +1,8 @@
 # post_app
 
-A new Flutter project.
+A new Post App project.
 
 ## Getting Started
+#Output
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![postApp](https://github.com/Smshahin22/PostApp/assets/92157667/839a5420-7cf5-4320-815b-600a72a7d60a)
